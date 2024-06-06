@@ -363,7 +363,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &371438749175113615
 RectTransform:
   m_ObjectHideFlags: 0
@@ -464,21 +464,21 @@ MonoBehaviour:
   componenteTexto: {fileID: 845692695944286756}
   componenteNome: {fileID: 4445041515321876374}
   falas:
-  - "Ah 16h, hor\xE1rio de pico\u2026 melhor abrir logo. "
-  - "Bem vindo primeiro cliente do di- Ah \xE9 voc\xEA , como vai? "
-  - "Ol\xE1, caro ouvinte, escute o seguinte: "
-  - "Trouxe os teus mantimentos necess\xE1rios,  "
-  - "Junto de um dos meus poemas di\xE1rios: "
+  - "Ah 16h, hor\xE1rio de pico\u2026 melhor abrir logo."
+  - "Bem vindo primeiro cliente do di- Ah \xE9 voc\xEA , como vai?"
+  - "Ol\xE1, caro ouvinte, escute o seguinte:"
+  - "Trouxe os teus mantimentos necess\xE1rios, "
+  - "Junto de um dos meus poemas di\xE1rios:"
   - Quisera eu nessa vida ser uma marmota,
   - "(Mas faria pe\xE7a, piada, cambalhota!)"
   - "Pra ter minha alegria \u2013 n\xE3o fa\xE7a chacota:"
-  - 'Mais um par de botas; menos que isso, derrota! '
-  - "Ah voc\xEA t\xE1 melhorando ein"
-  - 'Vosso elogio me agita,  '
-  - 'mas a minha sede grita! '
+  - Mais um par de botas; menos que isso, derrota!
+  - "Ah... Voc\xEA t\xE1 melhorando ein."
+  - Vosso elogio me agita,
+  - mas a minha sede grita!
   - "\xC9, voc\xEA incorporou bem isso a\xED, vai ser o de sempre?"
   - 'Mas como conheces o cliente! '
-  - "Tu j\xE1 sabes o que tenho em mente: "
+  - "Tu j\xE1 sabes o que tenho em mente:"
   - 'Leite em temperatura ambiente! '
   nome:
   - Jogador
